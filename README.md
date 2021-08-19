@@ -15,7 +15,7 @@ const revlv = {
   ],
   whatAmILearning: [
     "Java",
-    "Dart",
+    "Flutter",
     "JavaScript",
     "TypeScript (barely)",
     "Svelte",
