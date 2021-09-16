@@ -17,7 +17,7 @@ const revlv = {
     "Java",
     "Flutter",
     "JavaScript",
-    "TypeScript (barely)",
+    "TypeScript",
     "Svelte",
     "Next.js"
   ],
