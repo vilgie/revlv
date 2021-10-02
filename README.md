@@ -22,7 +22,7 @@ const revlv = {
     "Next.js"
   ],
   contact: {
-    discord: "vilgie#7692",
+    discord: "vilgie#2137",
     email: ["vilgie@seized.email", "vilgie@protonmail.com"]
   }
 }
